@@ -1,4 +1,4 @@
-# 中文排版指南
+# Hytale 中文排版指南
 
 本指南针对 [Aaran Xu 的中文排版指南](https://github.com/aaranxu/chinese-copywriting-guidelines)进行了修改，以指导 Hytale 游戏的翻译工作。
 
@@ -95,7 +95,7 @@
 
 > 我家的光纤入户宽带有 10Gbps，SSD 一共有 10TB。
 
-例外：度／百分比与数字之间不需要增加空格：
+例外：度/百分比与数字之间不需要增加空格：
 
 正确：
 
@@ -149,8 +149,6 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 核磁共振成像（NMRI）是什么原理都不知道？JFGI！
 
-> “与门”包含 X＆Y；“或门”则为 X／Y。
-
 错误：
 
 > 嗨! 你知道嘛? 今天前台的小妹跟我说 "喵" 了哎!
@@ -161,9 +159,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 核磁共振成像(NMRI)是什么原理都不知道?JFGI!
 
-> “与门”包含 X & Y; “或门”则为 X / Y。
-
-> “与门”包含 X&Y;“或门”则为 X/Y。
+注意：一些常见的标点例如斜线（/）与和号（&）都属于英文标点，不应使用全角字符。
 
 ### 数字使用半角字符
 
@@ -189,7 +185,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 乔布斯那句话是怎么说的？“Stay hungry，stay foolish。”
 
-> 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
+> 推荐你阅读《Hackers & Painters：Big Ideas from the Computer Age》，非常的有趣。
 
 ## 名词
 
@@ -225,7 +221,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 我们的客户有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
-注意：当网页中需要配合整体视觉风格而出现全部大写／小写的情形，HTML 中请使用标准的大小写规范进行书写；并通过 `text-transform: uppercase;`／`text-transform: lowercase;` 对表现形式进行定义。
+注意：当网页中需要配合整体视觉风格而出现全部大写/小写的情形，HTML 中请使用标准的大小写规范进行书写；并通过 `text-transform: uppercase;`/`text-transform: lowercase;` 对表现形式进行定义。
 
 ### 不要使用不地道的缩写
 
